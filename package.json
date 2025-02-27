@@ -1,0 +1,19 @@
+{
+  "name": "firstbackend",
+  "version": "1.0.0",
+  "description": "First backend deployent app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "chai"
+  ],
+  "author": "Shobhit Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
